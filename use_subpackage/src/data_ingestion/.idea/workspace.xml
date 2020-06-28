@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e35676b-f9af-4c48-890d-545bc5bd6f23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/go_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/census_api.go" beforeDir="false" afterPath="$PROJECT_DIR$/census_api.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/census_api_intergration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/census_api_intergration_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg.go" beforeDir="false" afterPath="$PROJECT_DIR$/pg.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg_intergration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pg_intergration_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/utils_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1dQYmggwsnC8PAVJYcfj1zLyzQY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Go Test.TestGetCensusAPIBody in data_ingestion">
+    <configuration name="TestGetCensusAPIBody in data_ingestion" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="data_ingestion" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="data_ingestion" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetCensusAPIBody$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetCensusAPIStatus in data_ingestion" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="data_ingestion" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="data_ingestion" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetCensusAPIStatus$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestGetCensusAPIBody in data_ingestion" />
+        <item itemvalue="Go Test.TestGetCensusAPIStatus in data_ingestion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="657" y="428" width="602" height="248" key="#Go_Linter" timestamp="1592414170048">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="657" y="428" width="602" height="248" key="#Go_Linter/0.27.1920.1052@0.27.1920.1052" timestamp="1592414170048" />
+    <state x="758" y="384" width="400" height="335" key="#Go_Modules" timestamp="1592358964281">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="758" y="384" width="400" height="335" key="#Go_Modules/0.27.1920.1052@0.27.1920.1052" timestamp="1592358964281" />
+    <state x="746" y="306" width="424" height="492" key="FileChooserDialogImpl" timestamp="1592505921540">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="746" y="306" width="424" height="492" key="FileChooserDialogImpl/0.27.1920.1052@0.27.1920.1052" timestamp="1592505921540" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1592505922851">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1052@0.27.1920.1052" timestamp="1592505922851" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1592505922849">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1052@0.27.1920.1052" timestamp="1592505922849" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1592505922848">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1052@0.27.1920.1052" timestamp="1592505922848" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1592505922850">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1052@0.27.1920.1052" timestamp="1592505922850" />
+  </component>
+</project>
